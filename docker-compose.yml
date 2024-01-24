@@ -7,4 +7,4 @@ services:
     ports:
       - 2322:3000
     volumes:
-      - './repo:/app'
+      - './:/app'

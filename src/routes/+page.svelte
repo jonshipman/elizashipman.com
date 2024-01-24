@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+	<title>ElizaShipman.com</title>
+</svelte:head>
+
+<iframe
+	src="/proxy"
+	title="Cookies"
+	class="absolute inset-0 border-0 h-screen w-screen"
+/>

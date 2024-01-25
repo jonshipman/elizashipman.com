@@ -15,7 +15,7 @@
 	<meta property="og:title" content="Eliza Shipman: Cookie Baroness" />
 	<meta
 		property="og:description"
-		content="Fuel your adventures with Girl Scout Cookies! From Thin Mints to Tagalongs, we've got the perfect treats to keep you going all season long. Order online and get ready to sell!"
+		content="Fuel your adventures with Girl Scout Cookies! From Thin Mints to Peanut Butter Patties, we've got the perfect treats to keep you going all season long. Order online and get ready to sell!"
 	/>
 	<meta property="og:image" content="{url}favicon.ico" />
 

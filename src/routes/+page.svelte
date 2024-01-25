@@ -28,8 +28,8 @@
 	class="w-screen min-h-screen flex items-center justify-center"
 	style="background-image: url('{wallpaper}');"
 >
-	<div class="text-center">
-		<div><img src="/favicon.ico" alt="Eliza's Head" class="animate-bounce" /></div>
+	<div class="text-center select-none">
+		<div><img src="/favicon.ico" alt="Eliza's Head" class="animate-bounce pointer-events-none" /></div>
 		<div class="text-5xl">Loading</div>
 	</div>
 </div>

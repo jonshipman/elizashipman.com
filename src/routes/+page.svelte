@@ -17,7 +17,7 @@
 	<meta property="og:image" content="{url}favicon.ico" />
 </svelte:head>
 
-<iframe src="/proxy" title="Cookies" class="absolute inset-0 border-0 h-screen w-screen" />
+<iframe src="https://digitalcookie.girlscouts.org/scout/eliza502362" title="Cookies" class="absolute inset-0 border-0 h-screen w-screen" />
 
 <div
 	class="pointer-events-none absolute bottom-0 w-screen pb-32 bg-bottom bg-repeat-x"
